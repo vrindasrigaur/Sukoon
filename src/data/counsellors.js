@@ -1,0 +1,32 @@
+export const initialCounsellors = [
+  {
+    id: 'sarah-ahmed',
+    name: 'Dr. Sarah Ahmed',
+    qualifications: 'PhD in Clinical Psychology, Licensed Therapist',
+    specialties: ['Stress', 'Anxiety', 'Trauma'],
+    bio: 'Dr. Sarah Ahmed is a compassionate and experienced clinical psychologist with over 8 years of practice. She specializes in evidence-based therapies for anxiety, stress, and trauma, helping clients build resilience and find their inner strength.',
+    longBio: 'With a PhD in Clinical Psychology from Stanford University, Dr. Sarah Ahmed has dedicated her career to helping individuals navigate life\'s most challenging moments. She is a licensed therapist with extensive training in Cognitive Behavioral Therapy (CBT), Eye Movement Desensitization and Reprocessing (EMDR), and mindfulness-based interventions. Sarah believes in a collaborative and client-centered approach, creating a warm and non-judgmental space where clients feel safe to explore their thoughts and feelings. Her goal is to empower clients with practical tools and insights to foster long-term mental well-being and personal growth.',
+    image: 'https://images.unsplash.com/photo-1557534401-aa3c3def09c6?q=80&w=800',
+    featured: true,
+  },
+  {
+    id: 'michael-chen',
+    name: 'Dr. Michael Chen',
+    qualifications: 'MA in Counseling Psychology, Certified Mindfulness Instructor',
+    specialties: ['Mindfulness', 'Meditation', 'Life Transitions'],
+    bio: 'Dr. Michael Chen is a certified mindfulness instructor with a passion for helping people connect with the present moment. He has over 10 years of experience guiding clients through life transitions and personal growth.',
+    longBio: 'Dr. Michael Chen holds a Master\'s degree in Counseling Psychology and is a certified Mindfulness-Based Stress Reduction (MBSR) instructor. He combines traditional counseling techniques with mindfulness practices to help clients manage stress, improve focus, and cultivate a deeper sense of self-awareness. Michael has a calm and grounding presence, making him an ideal guide for those new to meditation or seeking to deepen their practice. He has led workshops and retreats internationally, and his work is centered on the belief that inner peace is accessible to everyone.',
+    image: 'https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?q=80&w=800',
+    featured: true,
+  },
+  {
+    id: 'priya-sharma',
+    name: 'Dr. Priya Sharma',
+    qualifications: 'MSc in Psychology, Licensed Clinical Social Worker',
+    specialties: ['Relationships', 'Self-Esteem', 'Lifestyle Balance'],
+    bio: 'Dr. Priya Sharma is a licensed clinical social worker specializing in relationship dynamics and self-esteem. With 6 years of experience, she helps clients build healthier connections with themselves and others.',
+    longBio: 'Dr. Priya Sharma is a dedicated and empathetic therapist with a Master of Science in Psychology and credentials as a Licensed Clinical Social Worker. Her practice focuses on helping clients navigate the complexities of interpersonal relationships, build self-confidence, and achieve a healthier work-life balance. Priya utilizes a strengths-based and solution-focused approach, empowering clients to recognize their inherent worth and capabilities. She is particularly skilled in communication strategies, boundary setting, and attachment theory, providing clients with the tools to foster fulfilling and lasting relationships.',
+    image: 'https://images.unsplash.com/photo-1494790108377-be9c29b29330?q=80&w=800',
+    featured: true,
+  },
+];
